@@ -7,4 +7,4 @@ We are analyzing and comparing soil cores in different cities within the US.
 
 # Herrmann
 
-This is where Dustin adds stuff.
+This is where Dustin adds stuff
