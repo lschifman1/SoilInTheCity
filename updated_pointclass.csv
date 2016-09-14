@@ -1,0 +1,391 @@
+city,site,id,Park_Name,Land_Use,name,Parent,Passive,Private,Disturbed
+Camden,CAS3,CAP3,St Anthony's,Rain Garden,^A1,Anthropogenic,Active,UNK,Disturbed
+Camden,CAS5,CAP8,Aquarium,Landscape Lawn,^A1u,Anthropogenic,Passive,UNK,Disturbed
+Camden,CAS5,CAP9,Aquarium,Bare Rain Garden,^Au,Anthropogenic,Active,UNK,Disturbed
+Cincinnati,CIS1,CIP1,2063 Queen City Ave,NATIVE,A,Loess/Till/Fluvial/Residual,Passive,Private,Disturbed
+Cincinnati,CIS17,CIP34,2176 Selim Ave,NATIVE,Ap,Till/Residual,Passive,Private,Undisturbed
+Cincinnati,CIS25,CIP50,Mayfield Park,NATIVE,A,Till/Residual,Passive,Public,Disturbed
+Cincinnati,CIS26,CIP52,Mayfield Park,NATIVE,A,Till/Residual,Passive,Public,Disturbed
+Cincinnati,CIS28,CIP56,Glenway Park,NATIVE,A,Till/Residual,Passive,Public,Undisturbed
+Cincinnati,CIS28,CIP57,Glenway Park,NATIVE,^A,Till/Residual,Passive,Public,Disturbed
+Cincinnati,CIS8,CIP15,2465 Beekman St,NATIVE,A,Till/Residual,Passive,Private,Undisturbed
+Cleveland,CLS13,CLP26,938 Wheelock - Fill,NATIVE,surface,,Passive,Private,Disturbed
+Cleveland,CLS19,CLP37,8806 Marshall,FILL,surface,,Passive,Private,Undisturbed
+Cleveland,CLS53,CLP111,Lakeview Cemetary,FILL,A,Glacial Till,Passive,Private,UNK
+Cleveland,CLS62,CLP127,Abbey Park,NATIVE,A,Glacial Outwash over Lacustrine,Passive,Public,Undisturbed
+Detroit,DS16,DP31,Stoepel Park No. 1 (Westwood St),PARK,A,Aeolian,Passive,Public,Undisturbed
+Detroit,DS17,DP32,Stoepel Park No. 2 (W Chicago St),PARK,A,Aeolian,Passive,Public,Undisturbed
+Detroit,DS21,DP40,8390 Lyford ,UNDISTURBED,A,Aeolian,Passive,Private,Undisturbed
+Detroit,DS27,DP52,1259 McClellan,UNDISTURBED,A,Aeolian,Passive,Private,Disturbed
+Omaha,OS11,OP24,Pine and 50th,,A,Aeolian,Passive,Private,Undisturbed
+Omaha,OS14,OP30,Turner,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS15,OP32,Upland,,Ap,Aeolian,Passive,2,Undisturbed
+Omaha,OS15,OP33,Upland,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS2,OP3,Bemis,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS2,OP5,Bemis,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS4,OP7,Fontonelle,,A1,Aeolian,Passive,Public,Undisturbed
+Omaha,OS4,OP8,Fontonelle,,A1,Aeolian,Passive,Public,Undisturbed
+Omaha,OS5,OP9,Gallagher,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS6,OP11,Hanscom,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS6,OP13,Hanscom,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS7,OP16,Hitchcock,,A1,Aeolian,Passive,Public,Undisturbed
+Omaha,OS9,OP18,Paxton,,Ap,Aeolian,Passive,Public,Undisturbed
+Omaha,OS9,OP19,Paxton,,Ap,Aeolian,Passive,Public,Undisturbed
+Phoenix,PS10,PP13,White Tanks,Desert REF2,Bk,Fan Alluvium,Active,UNK,Undisturbed
+San Juan,PRS12,PRP15,Jardin Botanico Norte 2,BOTANICAL GARDEN,A1,Alluvial,Passive,Private,Undisturbed
+San Juan,PRS16,PRP19,El Senorial,PASSIVE AREA,A,Residual,Passive,Private,Disturbed
+San Juan,PRS21,PRP25,Parque Luis Munoz Marin,FIELD,A,Residual,Passive,Public,Undisturbed
+San Juan,PRS21,PRP26,Parque Luis Munoz Marin,FIELD,,, Passive,Public,UNK
+Tacoma,TS10,TP10,McKinley Park,Park,Ap,Glacial Till,Passive,Public,Undisturbed
+Tacoma,TS13,TP13,Proctor,Vacant Land,Ap,Aeolian,Passive,Public,Undisturbed
+Tacoma,TS14,TP14,Puget Creek Natural Area,Park,Ap,Aeolian,Passive,Public,Undisturbed
+Tacoma,TS15,TP15,Puget Creek Natural Area,Park,Ap,Aeolian,Passive,Public,Undisturbed
+Tacoma,TS16,TP16,Swan Creek,Vacant Land,Ap,Glacial Fluvial,Passive,Public,Undisturbed
+Tacoma,TS17,TP17,Vassault Park,Park,Ap,Glacial Till,Passive,Public,Undisturbed
+Tacoma,TS2,TP2,Alling Park,Park,Ap,Glacial Till,Passive,Public,Undisturbed
+Tacoma,TS4,TP4,Cloverdale Park,Park,Ap,Aeolian,Passive,Public,Undisturbed
+Atlanta,ATS1,ATP1,Athens Research Farm,Agricultural Field,Ap,Residual,Passive,Public,Undisturbed
+Camden,CAS22,CAP39,Saddlers Woods,Woods,A,Coastal Plain Sediments,Passive,Private,Undisturbed
+Camden,CAS26,CAP43,Medford WMA,Woods,A,Coastal Plain Sediments,Passive,Public,Undisturbed
+Phoenix,PS4,PP4,East Cactus Rd,"Native Xeriscape, Scottsdale 2",Bw,Fan Alluvium,Passive,Private,Undisturbed
+Phoenix,PS9,PP12,Usery Park,Desert REF1,A,Fan Alluvium,Passive,Public,Undisturbed
+Portland,PORS20,PORP66,Wayneflete,School Field,A1,Glacio-Fluvial,Passive,Private,Undisturbed
+Portland,PORS4,PORP12,East End School,School Field,A1,Glacial Till,Passive,Public,Undisturbed
+San Juan,PRS9,PRP10,Atenas Pineapple Farm Test Pit,FARM,Ap,Colluvial/Alluvial,Passive,Private,Undisturbed
+San Juan,PRS9,PRP11,Atenas Pineapple- sandy,FARM,,,Passive,Private,Undisturbed
+San Juan,PRS9,PRP9,Atenas Pineapple Farm 1,FARM,Ap,Colluvial/Alluvial,Passive,Private,Undisturbed
+Atlanta,ATS10,ATP36,Lindsay Street Park,Vacant Lot,A,Residual,Passive,Public,Disturbed
+Atlanta,ATS11,ATP40,423 Sunset center,Vacant Lot,^Cu,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS11,ATP41,423 Sunset,Vacant Lot,^A1,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS12,ATP42,82 Sunset,Vacant Lot,^A,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS2,ATP11,Atwood Rear,Mature Tree Yard,A,Residual,Passive,Private,Disturbed
+Atlanta,ATS2,ATP6,Atwood Front,Residential Yard,^Cu,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS3,ATP12,370 Brawley,Vacant Lot,A,Residual,Passive,Private,Disturbed
+Atlanta,ATS4,ATP16,386 Elm,Vacant Lot,^Au,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS5,ATP17,979 Frank - front,Vacant Lot,^Cu,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS5,ATP18,979 Frank,Vacant Lot,^A,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS6,ATP19,Griffin - Disturbed,Vacant Lot,^Au,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS7,ATP25,664 Magnolia,Vacant Lot,^Au,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS8,ATP30,744 North,Vacant Lot,^Cu,Anthropogenic,Passive,Private,Disturbed
+Atlanta,ATS9,ATP33,750 North,Vacant Lot,^A,Anthropogenic,Passive,Private,Disturbed
+Camden,CAS1,CAP1,Front Street,Garden,^Au,Anthropogenic,Active,Private,Disturbed
+Camden,CAS10,CAP21,Neighborhood Center,Passive Lawn,^A1u,Anthropogenic,Passive,Private,Disturbed
+Camden,CAS11,CAP22,Liney Ditch Camel,Park,^A1u,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS12,CAP28,Liney Ditch Garden,Park,^A1u,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS13,CAP29,Farnham Park,Park,A,Coastal Plain Sediments,Passive,Public,Disturbed
+Camden,CAS13,CAP30,Farnham Park,Rain Garden,A,Coastal Plain Sediments,Active,Public,Disturbed
+Camden,CAS14,CAP31,Urban Promise School,Passive Lawn,^A1u,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS16,CAP33,Octavius Catto School,Passive Lawn,^Cu,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS18,CAP35,Baird CSO,Passive Lawn,^Au,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS2,CAP2,29th Street,Rain Garden,^A1u,Anthropogenic,Active,UNK,Disturbed
+Camden,CAS20,CAP37,Thorndyke CSO,Passive Lawn,^Au,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS23,CAP40,Brimm School,Gravel Parking Lot,^C,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS24,CAP41,Haddon,Construction Area,^C1u,Anthropogenic,Passive,Private,Disturbed
+Camden,CAS25,CAP42,Yorkship Elementary,Gravel Parking Lot,^A1u,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS4,CAP4,Pyne Poynt,School Lawn,^A1u,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS6,CAP10,Cooper Sprouts,Community Garden,^A1u,Anthropogenic,Passive,Private,Disturbed
+Camden,CAS7,CAP14,Ferry Library,Passive Lawn,^A,Anthropogenic,Passive,Public,Disturbed
+Camden,CAS8,CAP16,Beckett Street Garden,Urban Garden,^A1u,Anthropogenic,Passive,Private,Disturbed
+Camden,CAS9,CAP17,Ferry Avenue MUA,Rain Garden,^A,Anthropogenic,Active,Public,Disturbed
+Cincinnati,CIS10,CIP19,,NATIVE,^C1,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS10,CIP21,,FILL,^C1,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS12,CIP24,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS12,CIP25,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS13,CIP26,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS13,CIP27,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS14,CIP28,,NATIVE,^A1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS14,CIP29,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS15,CIP30,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS16,CIP32,,NATIVE,^A,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS16,CIP33,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS17,CIP35,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS18,CIP36,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS19,CIP38,,NATIVE,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS2,CIP3,,NATIVE,^C1,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS2,CIP4,,FILL,^C1,Anthropogenic,Passive,Private,Disturbed
+Cincinnati,CIS20,CIP40,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS20,CIP41,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS21,CIP42,,NATIVE,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS21,CIP43,,FILL,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS22,CIP44,,NATIVE,^A,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS22,CIP45,,FILL,^A1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS23,CIP46,,NATIVE,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS24,CIP48,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS24,CIP49,,FILL,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS3,CIP5,,NATIVE,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS3,CIP6,,FILL,^C1,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS30,CIP61,Rapid Run Park,NATIVE,^A,Anthropogenic/Till/Residual,Passive,Public,Disturbed
+Cincinnati,CIS31,CIP63,Rapid Run Park,NATIVE,Ap,Anthropogenic/Till/Residual,Passive,Public,Disturbed
+Cincinnati,CIS4,CIP7,,FILL,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS5,CIP10,,FILL,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS5,CIP9,,NATIVE,^C1u,Anthropogenic,Passive,UNK,Disturbed
+Cincinnati,CIS6,CIP11,,FILL,^C1u,Anthropogenic/Till/Residual,Passive,UNK,Disturbed
+Cincinnati,CIS7,CIP13,,FILL,^C1u,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS8,CIP16,,FILL,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cincinnati,CIS9,CIP17,,NATIVE,^Au,Anthropogenic/Till/Residual,Passive,Private,Disturbed
+Cleveland,CLS1,CLP1,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS1,CLP2,,NATIVE,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS10,CLP19,,FILL,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS10,CLP20,,NATIVE,^Au,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS11,CLP21,,FILL,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS11,CLP22,,NATIVE,^Au,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS12,CLP23,,FILL,^C,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS12,CLP24,,NATIVE,^Au,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS13,CLP25,,FILL,^C1u,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS14,CLP27,,FILL,^Au,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS14,CLP28,,NATIVE,^A1u,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS15,CLP29,,FILL,^Au,Anthropogenic over Glacial Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS15,CLP30,,NATIVE,^Au,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS16,CLP31,,FILL,^Au,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS16,CLP32,,NATIVE,^Au,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS17,CLP33,,FILL,^A1u,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS17,CLP34,,NATIVE,^A1u,Anthropogenic over Glacial Till over Aeolian,Passive,Private,Disturbed
+Cleveland,CLS18,CLP35,,FILL,^Au,Anthropogenic over Glacial Outwash,Passive,Private,Disturbed
+Cleveland,CLS18,CLP36,,NATIVE,^Au,Anthropogenic over Aeolian,Passive,Private,Disturbed
+Cleveland,CLS19,CLP38,,NATIVE,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS2,CLP3,,FILL,^A,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS2,CLP4,,NATIVE,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS20,CLP39,,FILL,^Au,Anthropogenic over Glacial Outwash,Passive,Private,Disturbed
+Cleveland,CLS20,CLP40,,NATIVE,^A,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS21,CLP41,,FILL,^Au,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS21,CLP42,,NATIVE,^A,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS22,CLP43,,FILL,^Au,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS22,CLP44,,NATIVE,^Au,Anthropogenic over Aeolian,Passive,Private,Disturbed
+Cleveland,CLS23,CLP45,,FILL,surface,,Passive,Private,Disturbed
+Cleveland,CLS23,CLP46,,NATIVE,^Au1,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS24,CLP47,,FILL,^C,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS24,CLP48,,NATIVE,^A,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS25,CLP49,,FILL,^Cu,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS25,CLP50,,NATIVE,^A,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS26,CLP51,,FILL,^Cu,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS26,CLP52,,NATIVE,^A1,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS27,CLP53,,FILL,^Au1,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS27,CLP55,,NATIVE,^A,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS28,CLP56,,FILL,^C,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS28,CLP57,,NATIVE,^Au,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS29,CLP58,,FILL,^A1u,Anthropogenic over Glacial Outwash,Passive,Private,Disturbed
+Cleveland,CLS29,CLP59,,NATIVE,^Au,Anthropogenic over Glacial Outwash over Aeolian,Passive,Private,Disturbed
+Cleveland,CLS3,CLP5,,FILL,^A,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS3,CLP6,,NATIVE,^A,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS30,CLP60,,FILL,^Au1,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS30,CLP61,,NATIVE,^A,Anthropogenic over Glacial Till,Passive,Private,Disturbed
+Cleveland,CLS31,CLP62,,FILL,^A1u,Anthropogenic over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS31,CLP63,,NATIVE,^Au,,Passive,Private,Disturbed
+Cleveland,CLS32,CLP64,,FILL,^C,Anthropogenic over Till,Passive,Private,Disturbed
+Cleveland,CLS32,CLP65,,NATIVE,^C,,Passive,Private,Disturbed
+Cleveland,CLS33,CLP66,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS33,CLP67,,NATIVE,^Au,Anthropogenic over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS34,CLP68,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS34,CLP69,,NATIVE,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS35,CLP70,,FILL,^Au,Anthropogenic over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS35,CLP71,,NATIVE,^Au,Anthropogenic over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS36,CLP72,,FILL,surface,,Passive,Private,Disturbed
+Cleveland,CLS36,CLP73,,NATIVE,^Au,Anthropogenic over Lacustrine over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS36,CLP74,,NATIVE,^Au,Anthropogenic over Till over Lacustrine over Residual,Passive,Private,Disturbed
+Cleveland,CLS37,CLP75,,FILL,^Au,Anthropogenic over Till,Passive,Private,Disturbed
+Cleveland,CLS37,CLP76,,NATIVE,^A1u,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS38,CLP77,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS38,CLP78,,NATIVE,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS39,CLP79,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS39,CLP80,,NATIVE,^Au,Anthropogenic over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS4,CLP7,,FILL,^Au,Anthropogenic over Lacustrine,Passive,Private,Disturbed
+Cleveland,CLS4,CLP8,,NATIVE,^A,Anthropogenic over Lacustrine,Passive,Private,Disturbed
+Cleveland,CLS40,CLP81,,FILL,^A1u,Anthropogenic over Till,Passive,Private,Disturbed
+Cleveland,CLS40,CLP82,,NATIVE,^A1u,Anthropogenic over Till over Residual,Passive,Private,Disturbed
+Cleveland,CLS41,CLP83,,FILL,^A,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS41,CLP84,,NATIVE,^A1u,Anthropogenic over Outwash over Till,Passive,Private,Disturbed
+Cleveland,CLS42,CLP85,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS42,CLP86,,NATIVE,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS43,CLP87,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS43,CLP88,,NATIVE,^Au,Anthropogenic over Outwash over Till,Passive,Private,Disturbed
+Cleveland,CLS44,CLP89,,FILL,^C1u,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS44,CLP90,,NATIVE,^A,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS45,CLP91,,FILL,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS45,CLP92,,NATIVE,^A,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS46,CLP93,,FILL,^A1u,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS46,CLP94,,NATIVE,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS47,CLP95,,FILL,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS47,CLP96,,NATIVE,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS48,CLP97,,FILL,^A1,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS48,CLP98,,NATIVE,^A1u,Anthropogenic over Outwash,Passive,Private,Disturbed
+Cleveland,CLS49,CLP100,,NATIVE,^A1u,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS49,CLP99,,FILL,^Cu,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS5,CLP10,,NATIVE,^A1u,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS5,CLP9,,FILL,^A1u,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS50,CLP101,,FILL,^Au,Anthropogenic over Residual,Passive,Private,Disturbed
+Cleveland,CLS50,CLP102,,NATIVE,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS51,CLP103,,FILL,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS51,CLP105,,FILL,^Au,Anthropogenic,Passive,Private,Disturbed
+Cleveland,CLS51,CLP107,,NATIVE,^Au,Anthropogenic over Outwash over Residual,Passive,Private,Disturbed
+Cleveland,CLS54,CLP112,Glenville Recreation Area,FILL,^A,Anthropogenic over Residual,Passive,Public,Disturbed
+Cleveland,CLS54,CLP113,Glenville Recreation Area,FILL,^A1,Anthropogenic over Aeolian over Outwash,Passive,Public,Disturbed
+Cleveland,CLS55,CLP114,Orr Park,NATIVE,^C1,Anthropogenic,Passive,Public,Disturbed
+Cleveland,CLS56,CLP115,Rockefeller Park Lagoon,NATIVE,^A,Anthropogenic over Glacial Outwash over Sandy Glacial Outwash',Passive,Public,Disturbed
+Cleveland,CLS56,CLP116,Rockefeller Park Lagoon,NATIVE,,,Passive,Public,Disturbed
+Cleveland,CLS57,CLP117,Carrie Cain Playground,NATIVE,^Au,Anthropogenic over Aeolian Sands,Passive,Public,Disturbed
+Cleveland,CLS58,CLP119,Sam Miller Park,NATIVE,^A,Anthropogenic over Aeolian Sands,Passive,Public,Disturbed
+Cleveland,CLS58,CLP120,Sam Miller Park,NATIVE,^A,Anthropogenic over Aeolian Sands,Passive,Public,Disturbed
+Cleveland,CLS59,CLP121,Hyacinth Park,NATIVE,^A,Anthropogenic over Lacustrine over Aeolian Sands,Passive,Public,Disturbed
+Cleveland,CLS6,CLP11,,FILL,^Au,Anthropogenic over Aeolian Sands,Passive,Public,Disturbed
+Cleveland,CLS6,CLP12,,NATIVE,^A1,Anthropogenic over Aeolian Sands,Passive,Public,Disturbed
+Cleveland,CLS60,CLP123,Tremont Valley Playfield,NATIVE,^Au,Anthropogenic over Glacial Outwash,Passive,Public,Disturbed
+Cleveland,CLS61,CLP125,Lincoln Park,NATIVE,^Ap,Anthropogenic over Glacial Outwash over Lacustrine,Passive,Public,Disturbed
+Cleveland,CLS61,CLP126,Lincoln Park,NATIVE,^C1u,Anthopogenic,Passive,Public,Disturbed
+Cleveland,CLS63,CLP129,Loew Park,NATIVE,^A,Anthropgenic over Glacial Outwash over Aeolian,Passive,Public,Disturbed
+Cleveland,CLS64,CLP131,Irma Park,NATIVE,^Au,Anthropogenic,Passive,Public,Disturbed
+Cleveland,CLS7,CLP13,,FILL,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS7,CLP14,,NATIVE,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS8,CLP15,,FILL,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS8,CLP16,,NATIVE,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS9,CLP17,,FILL,^Au,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Cleveland,CLS9,CLP18,,NATIVE,^A,Anthropogenic over Aeolian Sands,Passive,Private,Disturbed
+Detroit,DS1,DP1,,DISTURBED,^A1,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS1,DP2,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS10,DP19,,DISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS10,DP20,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS11,DP21,,DISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS11,DP22,,UNDISTURBED,^Cu,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS12,DP23,,DISTURBED,^Cu,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS12,DP24,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS13,DP25,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS13,DP26,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS14,DP27,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS14,DP28,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS15,DP29,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS15,DP30,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS18,DP33,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS18,DP34,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS19,DP35,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS19,DP36,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS2,DP3,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS2,DP4,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS20,DP37,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS20,DP38,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS21,DP39,,DISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS22,DP41,,DISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS22,DP42,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS23,DP43,,DISTURBED,^Cu,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS23,DP44,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS24,DP45,,DISTURBED,^C1,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS24,DP46,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS25,DP47,,DISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS25,DP48,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS26,DP49,,DISTURBED,^Cu,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS26,DP50,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS27,DP51,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS28,DP53,Biraga Playground,,^Au,Anthropogenic,Passive,Public,Disturbed
+Detroit,DS29,DP54,Messmer Playground,,^Au,Anthropogenic,Passive,Public,Disturbed
+Detroit,DS3,DP5,,DISTURBED,^A,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS3,DP6,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS30,DP55,Maheras-Gentry Park,,^A1u,Anthropogenic,Passive,Public,Disturbed
+Detroit,DS31,DP56,Robinwood Park,,^A,Anthropogenic,Passive,Public,Disturbed
+Detroit,DS31,DP57,Robinwood Park,,^A,Anthropogenic,Passive,Public,Disturbed
+Detroit,DS4,DP7,,DISTURBED,^A,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS4,DP8,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS5,DP10,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS5,DP9,,DISTURBED,^A1,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS6,DP11,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS6,DP12,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS7,DP13,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS7,DP14,,UNDISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS8,DP15,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS8,DP16,,UNDISTURBED,^A`u,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS9,DP17,,DISTURBED,^Au,Anthropogenic,Passive,Private,Disturbed
+Detroit,DS9,DP18,,UNDISTURBED,^A1u,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS1,NP1,,Vacant Lot,^A1,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS10,NP10,,Vacant Lot,^C,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS11,NP11,,Vacant Lot,,,Passive,Private,Disturbed
+New Orleans,NS11,NP11,,Vacant Lot,,,Passive,Private,Disturbed
+New Orleans,NS12,NP12,Lafitte Greenway,Greenway,^A,Anthropogenic,Passive,UPublicK,Disturbed
+New Orleans,NS13,NP13,Lafitte Greenway,Greenway,^A1,Anthropogenic,Passive,UPublicK,Disturbed
+New Orleans,NS14,NP14,,Vacant Lot,^Au,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS15,NP15,,Vacant Lot,^C1u,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS16,NP16,,Vacant Lot,^A1u,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS17,NP17,,Vacant Lot,^A1u,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS18,NP18,,Vacant Lot,^C1u,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS19,NP19,,Vacant Lot,^Cg,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS2,NP2,,Vacant Lot,^A,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS20,NP20,,Vacant Lot,^A,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS3,NP3,,Vacant Lot,^A1u,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS4,NP4,,Vacant Lot,^A1,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS5,NP5,,Park,^A1,Anthropogenic,Passive,Public,Disturbed
+New Orleans,NS6,NP6,,Vacant Lot,^A1,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS7,NP7,,Vacant Lot,^Au,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS8,NP8,,Vacant Lot,^A,Anthropogenic,Passive,Private,Disturbed
+New Orleans,NS9,NP9,,Vacant Lot,^Au,Anthropogenic,Passive,Private,Disturbed
+Omaha,OS1,OP1,Adams,,^A1u,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS1,OP2,Adams,,^A1,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS10,OP21,20th and Pierce,,^C1u,Anthropogenic,Passive,Private,Disturbed
+Omaha,OS10,OP22,20th and Pierce,,^C1u,Anthropogenic,Passive,Private,Disturbed
+Omaha,OS11,OP23,Pine and 50th,,^A,Anthropogenic,Passive,Private,Disturbed
+Omaha,OS12,OP25,Spring Lake Field,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS13,OP26,Spring Lake Park,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS13,OP27,Spring Lake Park,,^A1,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS13,OP28,Spring Lake Park,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS13,OP29,Spring Lake Park,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS14,OP31,Turner,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS16,OP34,Omaha Sewage Management Facility,,^A,Anthropogenic,Active,Public,Disturbed
+Omaha,OS17,OP35,Orchard Park 1,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS17,OP36,Orchard Park 2,,^C1,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS2,OP4,Bemis,,^A1,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS3,OP6,Dewey,,^C1,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS5,OP10,Gallagher,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS6,OP12,Hanscom,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS6,OP14,Hanscom,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS7,OP15,Hitchcock,,^A1,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS8,OP17,Leavenworth,,^A,Anthropogenic,Passive,Public,Disturbed
+Omaha,OS9,OP20,Paxton,,^A1,Anthropogenic,Passive,Public,Disturbed
+Phoenix,PS1,PP1,,"Turf to Xeriscape, Phoenix residential",^C/A1,Anthropogenic,Passive,Private,Disturbed
+Phoenix,PS2,PP2,,"Common Xeriscape, Tempe Residential",^C/A1,Anthropogenic,Passive,Private,Disturbed
+Phoenix,PS3,PP3,,"Landscaped Xeriscape, Scottsdale 1",^C/A1,Anthropogenic,Passive,Private,Disturbed
+Phoenix,PS5,PP5,Cactus Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Phoenix,PS5,PP6,Cactus Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Phoenix,PS5,PP7,Cactus Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Phoenix,PS6,PP8,Mescal Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Phoenix,PS6,PP9,Mescal Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Phoenix,PS7,PP10,Northsight Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Phoenix,PS7,PP11,Northsight Park,Park Turfgrass (Bermuda),Ap,Anthropogenic/Aeolian,Active,Public,Disturbed
+Portland,PORS1,PORP1,Franklin Tower,Passive Lawn,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS10,PORP34,High/Spring Streets,Passive Lawn,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS11,PORP39,Harbor View Park,Park,^C1,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS12,PORP41,87 State Street,Passive Lawn,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS13,PORP43,Western Promenade,Park,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS14,PORP45,Presumpscot Elementary,School,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS15,PORP49,Riverton School,School,^A1,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS16,PORP57,PATHS,School,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS17,PORP58,Evergreen Cemetary,Road Shoulder,^A1,Anthropogenic,Passive,Private,Disturbed
+Portland,PORS18,PORP60,Deering High School,School,^A1u,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS19,PORP63,Sagamore Village,Passive Lawn,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS2,PORP4,Mayo Street,Passive Lawn,^Au,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS3,PORP6,East Prom,Park,^A1,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS5,PORP18,King Middle School,School Passive Area,^A1u,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS6,PORP23,Fessenden Park,Park,^A,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS7,PORP24,Jerry Pedro Field,Passive Lawn,^A1,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS8,PORP28,Deering Oaks,Gravel Lot,^A1,Anthropogenic,Passive,Public,Disturbed
+Portland,PORS9,PORP30,134 Lancaster,Passive Lawn,^Au,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS1,PRP1,Calle 14,VACANT LAND,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS10,PRP12,Roberto Clemente Park/wetland 1,WILDLIFE RECREATION AREA,^Au,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS10,PRP13,Roberto Clemente Park/wetland 2,WILDLIFE RECREATION AREA,^Au,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS11,PRP14,Jardin Botanico Norte 1,BOTANICAL GARDEN,^A1,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS13,PRP16,Buen Consejo,PARK,^Au,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS14,PRP17,Sabana Llama,ARBORETUM,^A1u,Anthropogenic,Active,Private,Disturbed
+San Juan,PRS15,PRP18,Capetillo,URBAN PARK,^A1u,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS16,PRP20,El Senorial,PASSIVE AREA,,,Passive,Private,Disturbed
+San Juan,PRS17,PRP21,Victor Pares Collazo,PASSIVE AREA,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS18,PRP22,Luis Munoz Souffront,FIELD,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS19,PRP23,Jose M Rivera Solis,FIELD,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS2,PRP2,Calle William,VACANT LAND,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS20,PRP24,Rafael Quinones Vidal,FIELD,^A,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS3,PRP3,Calle del Pilar,VACANT LOT,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS4,PRP4,Calle Principal,AUTO YARD,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS5,PRP5,Plaza Israel,PARK,^Au,Anthropogenic,Passive,Public,Disturbed
+San Juan,PRS6,PRP6,Calle Paraguay,VACANT LOT,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS7,PRP7,Calle C,VACANT LOT,^Au,Anthropogenic,Passive,Private,Disturbed
+San Juan,PRS8,PRP8,Calle San Jose,VACANT LOT,^Au,Anthropogenic,Passive,Private,Disturbed
+Tacoma,TS11,TP11,McKinley Park,Park,^Apu,Anthropogenic,Passive,Public,Disturbed
+Tacoma,TS12,TP12,Peoples Park,Park,^Ap,Anthropogenic,Passive,Public,Disturbed
+Tacoma,TS3,TP3,Cloverdale Park,Park,^Ap,Anthropogenic,Passive,Public,Disturbed
+Tacoma,TS5,TP5,Franklin Park,Park,^Ap,Anthropogenic,Passive,Public,Disturbed
+Tacoma,TS7,TP7,Jefferson Park,Park,^Ap,Anthropogenic,Passive,Public,Disturbed
+Tacoma,TS8,TS8,Landfill,Vacant Land,^Ap,Anthropogenic,Passive,Private,Disturbed
+Tacoma,TS9,TP9,Manitou Park,Park,^Ap,Anthropogenic,Passive,Public,Disturbed
