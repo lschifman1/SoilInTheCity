@@ -3,7 +3,7 @@
 library(aqp)
 library(lattice)
 library(shiny)
-full <- read.csv("//Aa.ad.epa.gov/ord/CIN/Users/main/L-P/LSchifma/Net MyDocuments/PROJECTS/Multicity Soil Analysis/Full1_InclPredictedTexture.csv")
+full <- read.csv("C:/Users/Dustin/Desktop/R Projects/SoilInTheCity/Full1_InclPredictedTexture.csv")
 
 
 depths(full) <- SampleSite_ID ~ top + bottom
@@ -12,7 +12,7 @@ site(full) <- ~ City_Name
 
 in1 <- selectInput("pick_attribute",
                    label = "Pick a Soil Attribute",
-                   choices = names(full@horizons)[31:56], selected="Percent_Sand")
+                   choices = names(full@horizons)[31:56], selected="Percent_Carbon")
 
 
 out2 <- plotOutput("city_plots", height = "600px") 
@@ -22,9 +22,9 @@ out2 <- plotOutput("city_plots", height = "600px")
 #  rows and cols for lattice plot layout
 city_plot <- function(varname, rows, cols) {
   agg <- slab(full, fm = as.formula(paste("City_Name ~", varname)))
-  xyplot(top ~ p.q50 | City_Name, data=agg, ylab='Depth',
+  xyplot(top ~ p.q50 | City_Name, data=agg, ylab='Depth (cm)',
          xlab='median bounded by 25th and 75th percentiles',
-         lower=agg$p.q25, upper=agg$p.q75, ylim=c(500,-2),
+         lower=agg$p.q25, upper=agg$p.q75, ylim=c(300,-2),
          panel=panel.depth_function,
          alpha=0.25, sync.colors=TRUE,
          par.settings=list(superpose.line=list(col='RoyalBlue', lwd=2)),
